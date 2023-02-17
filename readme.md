@@ -129,7 +129,7 @@ https://www.anaconda.com/download/
 https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC
 
 CUDA下载网址(v10.0)
-https://developer.nvidia.com/cuda-toolkit-archive
+https://developer.nvidia.com/compute/cuda/10.0/Prod/local_installers/cuda_10.0.130_411.31_win10
 
 双击安装先会安装一个安装程序。安装完成后会自动添加环境变量。
 
