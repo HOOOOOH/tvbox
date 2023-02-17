@@ -134,7 +134,7 @@ https://developer.nvidia.com/compute/cuda/10.0/Prod/local_installers/cuda_10.0.1
 双击安装先会安装一个安装程序。安装完成后会自动添加环境变量。
 
 cuDNN下载网址(v7.4.2)
-https://developer.nvidia.com/compute/machine-learning/cudnn/secure/v7.4.2/prod/10.0_20181213/cudnn-10.0-windows10-x64-v7.4.2.24.zip
+https://pan.baidu.com/s/14Oisbo9cZpP7INQ6T-3vwA 提取码：z4pl 
 
 cuDNN操作
 将cudnn目录下的文件移入到对应的cuda文件夹中
