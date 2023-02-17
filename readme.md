@@ -137,7 +137,7 @@ cuDNN下载网址(v7.4.2)
 https://pan.baidu.com/s/14Oisbo9cZpP7INQ6T-3vwA 提取码：z4pl 
 
 cuDNN操作
-将cudnn目录下的文件移入到对应的cuda文件夹中
+将cudnn目录下的文件移入到对应的cuda文件夹中（C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0）
 ![image](https://user-images.githubusercontent.com/36353749/219566381-2aef6455-94ae-4b4c-b772-d446f07ea4f1.png)
 
 ### 3.2 创建conda环境
