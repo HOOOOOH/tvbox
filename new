@@ -137,6 +137,9 @@ cuDNN操作
 将cudnn目录下的文件移入到对应的cuda文件夹中（C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0）
 ![image](https://user-images.githubusercontent.com/36353749/219566381-2aef6455-94ae-4b4c-b772-d446f07ea4f1.png)
 
+安装tensorflow 
+https://developer.download.nvidia.cn/compute/cuda/11.1.1/local_installers/cuda_11.1.1_456.81_win10.exe
+
 ### 3.2 创建conda环境
 ```
 conda create -n py36 python==3.8
@@ -145,7 +148,7 @@ conda activate py38
 然后配置好pycharm项目的python解释器。
 ### 3.3 安装环境必要的软件包
 ```
-pip install -r requirements.txt
+pip install -r requirements.txt  -i http://pypi.douban.com/simple/ --trusted-host=pypi.douban.com/simple
 ```
 
 ## 4. 生成用于训练的数据
