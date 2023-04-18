@@ -148,7 +148,7 @@ conda activate py36
 然后配置好pycharm项目的python解释器。
 ### 3.3 安装环境必要的软件包
 ```
-pip install -r requirements.txt
+pip install -r requirements.txt -i http://pypi.douban.com/simple/ --trusted-host=pypi.douban.com/simple
 ```
 
 ## 4. 生成用于训练的数据
